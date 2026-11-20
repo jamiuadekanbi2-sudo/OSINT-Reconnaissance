@@ -1,0 +1,13 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	cloudflare.com
+Address: 104.16.132.229
+Name:	cloudflare.com
+Address: 104.16.133.229
+Name:	cloudflare.com
+Address: 2606:4700::6810:84e5
+Name:	cloudflare.com
+Address: 2606:4700::6810:85e5
+
